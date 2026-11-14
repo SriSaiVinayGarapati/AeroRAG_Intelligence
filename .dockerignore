@@ -1,0 +1,15 @@
+
+.venv/
+__pycache__/
+.pytest_cache/
+.git/
+.env
+.env.*
+!.env.example
+
+qdrant_storage/
+qdrant_storage_backup/
+pdfs/
+
+*.pyc
+.DS_Store

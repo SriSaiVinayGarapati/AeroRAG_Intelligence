@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Qdrant database and backups
+qdrant_storage/
+qdrant_storage_backup/
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db

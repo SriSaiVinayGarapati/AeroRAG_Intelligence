@@ -1,0 +1,9 @@
+from pydantic import BaseModel
+
+class AskResponse(BaseModel):
+
+    question: str
+
+    answer: str
+
+    reference_images: list[str]
