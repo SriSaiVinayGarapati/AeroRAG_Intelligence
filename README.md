@@ -10,7 +10,7 @@ The application displays the **AI-generated answer alongside the retrieved manua
 
 ### 🌐 Live Demo
 
-**[Launch AeroRAG Intelligence](http://13.203.212.110)**
+**[Launch AeroRAG Intelligence](https://aerorag-intelligence.duckdns.org)**
 
 Hosted on AWS EC2 using Docker Compose and Nginx.
 
@@ -128,14 +128,6 @@ AeroRAG Intelligence is deployed on an Ubuntu-based AWS EC2 instance.
 - Streamlit provides the interactive interface.
 - Nginx exposes the frontend through a reverse proxy.
 
-**Live Application:** http://13.203.212.110
-
-## Future Improvements
-
-- Retrieval evaluation using a curated question-answer dataset.
-- Improved retrieval using multiple relevant pages.
-- HTTPS and a stable custom domain.
-
----
+**Live Application:** https://aerorag-intelligence.duckdns.org
 
 **AeroRAG Intelligence — An end-to-end multimodal RAG application built with Python, FastAPI, Streamlit, Qdrant, Gemini, Docker, and AWS.**
