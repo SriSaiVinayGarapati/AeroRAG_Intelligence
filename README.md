@@ -130,12 +130,4 @@ AeroRAG Intelligence is deployed on an Ubuntu-based AWS EC2 instance.
 
 **Live Application:** https://aerorag-intelligence.duckdns.org
 
-## Future Improvements
-
-- Retrieval evaluation using a curated question-answer dataset.
-- Improved retrieval using multiple relevant pages.
-- HTTPS and a stable custom domain.
-
----
-
-**AeroRAG Intelligence â€” An end-to-end multimodal RAG application built with Python, FastAPI, Streamlit, Qdrant, Gemini, Docker, and AWS.**
+**AeroRAG Intelligence — An end-to-end multimodal RAG application built with Python, FastAPI, Streamlit, Qdrant, Gemini, Docker, and AWS.**
