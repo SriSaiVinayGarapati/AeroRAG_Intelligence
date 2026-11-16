@@ -1,4 +1,4 @@
-# ✈️ AeroRAG Intelligence
+﻿# âœˆï¸ AeroRAG Intelligence
 
 ### Multimodal RAG Assistant for the MiG-29 Flight Manual
 
@@ -8,7 +8,7 @@ Unlike traditional text-based RAG systems, AeroRAG retrieves relevant **manual p
 
 The application displays the **AI-generated answer alongside the retrieved manual page**, allowing users to examine the supporting source.
 
-### 🌐 Live Demo
+### ðŸŒ Live Demo
 
 **[Launch AeroRAG Intelligence](https://aerorag-intelligence.duckdns.org)**
 
