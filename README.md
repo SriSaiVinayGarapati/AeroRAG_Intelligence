@@ -1,4 +1,4 @@
-# ✈️ AeroRAG Intelligence
+﻿# âœˆï¸ AeroRAG Intelligence
 
 ### Multimodal RAG Assistant for the MiG-29 Flight Manual
 
@@ -8,9 +8,9 @@ Unlike traditional text-based RAG systems, AeroRAG retrieves relevant **manual p
 
 The application displays the **AI-generated answer alongside the retrieved manual page**, allowing users to examine the supporting source.
 
-### 🌐 Live Demo
+### ðŸŒ Live Demo
 
-**[Launch AeroRAG Intelligence](http://13.203.212.110)**
+**[Launch AeroRAG Intelligence](https://aerorag-intelligence.duckdns.org)**
 
 Hosted on AWS EC2 using Docker Compose and Nginx.
 
@@ -128,7 +128,7 @@ AeroRAG Intelligence is deployed on an Ubuntu-based AWS EC2 instance.
 - Streamlit provides the interactive interface.
 - Nginx exposes the frontend through a reverse proxy.
 
-**Live Application:** http://13.203.212.110
+**Live Application:** https://aerorag-intelligence.duckdns.org
 
 ## Future Improvements
 
@@ -138,4 +138,4 @@ AeroRAG Intelligence is deployed on an Ubuntu-based AWS EC2 instance.
 
 ---
 
-**AeroRAG Intelligence — An end-to-end multimodal RAG application built with Python, FastAPI, Streamlit, Qdrant, Gemini, Docker, and AWS.**
+**AeroRAG Intelligence â€” An end-to-end multimodal RAG application built with Python, FastAPI, Streamlit, Qdrant, Gemini, Docker, and AWS.**
