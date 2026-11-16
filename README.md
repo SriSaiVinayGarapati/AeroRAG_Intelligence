@@ -8,7 +8,7 @@ Unlike traditional text-based RAG systems, AeroRAG retrieves relevant **manual p
 
 The application displays the **AI-generated answer alongside the retrieved manual page**, allowing users to examine the supporting source.
 
-### 🌐 Live Demo
+### 🌐 Live Demo - Note : AWS Instance is Intentionally kept down
 
 **[Launch AeroRAG Intelligence](https://aerorag-intelligence.duckdns.org)**
 
@@ -128,6 +128,6 @@ AeroRAG Intelligence is deployed on an Ubuntu-based AWS EC2 instance.
 - Streamlit provides the interactive interface.
 - Nginx exposes the frontend through a reverse proxy.
 
-**Live Application:** https://aerorag-intelligence.duckdns.org
+**Live Application:** https://aerorag-intelligence.duckdns.org  (Note : AWS Instance is Intentionally kept down)
 
 **AeroRAG Intelligence — An end-to-end multimodal RAG application built with Python, FastAPI, Streamlit, Qdrant, Gemini, Docker, and AWS.**
